@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Первое приложение</string>
+    <string name="first_text">Привет мир!</string>
+    <string name="button_1">Старт</string>
+    <string name="newText">Новый текст</string>
+    <string name="TextViewInSecondActivity1">MainActivity1</string>
+</resources>

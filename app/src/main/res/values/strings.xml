@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">APPLessons1</string>
+    <string name="first_text">Hello, world!</string>
+    <string name="button_1">start</string>
+    <string name="newText">new Text</string>
+    <string name="TextViewInSecondActivity1">Not LAUNCHER</string>
+</resources>

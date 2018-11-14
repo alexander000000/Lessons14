@@ -33,7 +33,7 @@ public class MainActivity1 extends AppCompatActivity {
                 //mText.setText(newString);
 
                 mIntent1 = new Intent(MainActivity1.this, SecondActivity.class);
-                //mIntent1.setData(Uri.parse(msfString));
+
                 mIntent1.putExtra(msfString,"MainActivity1");
                 startActivity(mIntent1);
             }
